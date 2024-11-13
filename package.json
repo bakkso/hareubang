@@ -46,8 +46,4 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "daisyui": "^4.6.0"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1acfe803c85da2c254c7cd66fa17fb27e8d047ae
